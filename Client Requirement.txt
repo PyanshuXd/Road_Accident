@@ -1,0 +1,29 @@
+
+
+
+
+
+Requirement:
+			Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements--
+			
+			1. PRIMARY KPI - Total Casualties taken place after the accidents
+			2. PRIMARY KPI's - Total Casualties & percentages of total with respects to accidentsseverity and maximum casualties by type of vehicle.
+			
+			3. Secondary KPI's - a. Total Casualties with respects to vehicle type
+								b. Monthly trend showing comparison of casualties for Current Year and Previous Year
+								c. Maximum casualties by Road type
+								d. Distribution of total casualties by Road Surface
+								e. Relation between Casualties by Area/Location & by Day/Night
+
+StakeHolders:
+			Means which particular peoples or Department or Oragnizations able to use our Dashboard.
+			
+			1. Ministry of Transport
+			2. Road Transport Department
+			3. Police Force
+			4. Emergency Service Department
+			5. Road Safety Corps
+			6. Transport Operators
+			7. Traffic Management Agencies
+			8. Public
+			9. Media
